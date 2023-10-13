@@ -15,3 +15,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-181717?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Hermit131)
 [![linkedin](https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kirill-shturma-552941292/)
 
+[![XiriKiri GitHub stats](https://github-readme-stats.vercel.app/api?username=XiriKiri313&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiriKiri313&layout=donut-vertical&theme=radical)
