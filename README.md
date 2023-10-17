@@ -11,7 +11,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-101010?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 
 ### My social
-[![VK](https://img.shields.io/badge/-VK-181717?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/hermit131)
+[![VK](https://img.shields.io/badge/-VK-181717?style=for-the-badge&logo=VK&logoColor=0077FF&target='blank')](https://vk.com/hermit131)
 [![Telegram](https://img.shields.io/badge/-Telegram-181717?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Hermit131)
 [![linkedin](https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kirill-shturma-552941292/)
 
